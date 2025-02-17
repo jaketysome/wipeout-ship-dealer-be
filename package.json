@@ -11,7 +11,8 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "setup-dbs": "psql -f ./db/setup.sql"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
