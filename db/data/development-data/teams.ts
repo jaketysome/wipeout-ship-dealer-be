@@ -1,6 +1,5 @@
 export default [
   {
-    id: "F0-001-FEI",
     fullName: "Federal European Industrial Science and Research",
     shortName: "FEISAR",
     slug: "FEISAR",
@@ -11,7 +10,6 @@ export default [
     logoImgPath: "",
   },
   {
-    id: "F0-002-AGS",
     fullName: "Anti-Gravity Systems",
     shortName: "AG-Systems",
     slug: "AG-Sys",
@@ -22,7 +20,6 @@ export default [
     logoImgPath: "",
   },
   {
-    id: "F0-003-AUR",
     fullName: "Auricom Research Industries",
     shortName: "Auricom",
     slug: "auricom",
@@ -33,7 +30,6 @@ export default [
     logoImgPath: "",
   },
   {
-    id: "F0-003-QIR",
     fullName: "Qirex Research and Development",
     shortName: "Qirex",
     slug: "qirex",
@@ -44,7 +40,6 @@ export default [
     logoImgPath: "",
   },
   {
-    id: "F0-003-PIR",
     fullName: "Piranha Advancements",
     shortName: "Piranha",
     slug: "piranha",
