@@ -99,4 +99,24 @@ export default [
     description:
       "Arian Tetsuo was a pilot for Qirex during the F3600 League. She also had a fierce rivalry with her twin sister, Arial Tetsuo of Auricom.",
   },
+  {
+    fullName: "Myima Tsarong",
+    slug: "myima-tsarong",
+    teamId: 5,
+    yearOfBirth: 2054,
+    sex: "Female",
+    nationality: "Tibetan",
+    description:
+      "Myima Tsarong previously piloted craft in the arcane world of Tibetan anti-grav racing, a strange variant on the conventional sport with an emphasis on calmness and non-violence. She has a graceful style, and boasts the highest CMGFL rating in the league, allowing her to sustain massive G-Forces. Unable to accept the millions of dollars paid to other anti-grav pilots due to her beliefs, Tsarong flies simply for the joy of controlling one of the greatest anti-gravity craft ever developed.",
+  },
+  {
+    fullName: "Jann Shlaudecker",
+    slug: "jann-shlaudecker",
+    teamId: 5,
+    yearOfBirth: 2049,
+    sex: "Male",
+    nationality: "German",
+    description:
+      "When he signed Jann Shlaudecker, Aries Piermont was mocked for putting an unknown talent in the team's sublime Swiftkiller craft. However, his instincts appear to have been vindicated, as Shlaudecker has emerged as one of the most intelligent pilots on the circuit. He puts his rapid development down to his partnership with the mystical Myima Tsarong, and he has suggested he may move to Tibet for a while.",
+  },
 ];
