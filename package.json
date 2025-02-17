@@ -1,0 +1,16 @@
+{
+  "name": "wipeout-ship-dealer-be",
+  "version": "1.0.0",
+  "description": "Backend for fictional ship dealer from the Wipeout video game series.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-jake-personal:jaketysome/wipeout-ship-dealer-be.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Jake Tysome",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
